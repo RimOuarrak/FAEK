@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Jan 2023 15:36:07 at http://www.fondationaek.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.fondationaek.org/ -O1 "C:\Mes Sites Web\fondation" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:36:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.fondationaek.org/css/custom-css.css
+15:38:50	Error: 	"Not Found" (404) at link https://www.fondationaek.org/themes.themegoods.com/constructor/demo/wp-content/themes/tgconstructor/images/ (from www.fondationaek.org/)
+16:09:39	Warning: 	File not parsed, looks like binary: www.fondationaek.org/revslider/public/assets/css/openhand.cur
+16:09:39	Warning: 	File not parsed, looks like binary: www.fondationaek.org/revslider/public/assets/css/closedhand.cur
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_glass_75_e6e6e6_1x400.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_glass_75_dadada_1x400.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_glass_65_ffffff_1x400.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_glass_55_fbf9ee_1x400.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_glass_95_fef1ec_1x400.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-icons_222222_256x240.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-icons_888888_256x240.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-icons_454545_256x240.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-icons_2e83ff_256x240.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-icons_cd0a0a_256x240.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/images/ui-bg_flat_0_aaaaaa_40x100.png (from www.fondationaek.org/css/style.css)
+16:09:39	Error: 	"Not Found" (404) at link www.fondationaek.org/css/bigplay.svg (from www.fondationaek.org/css/style.css)
+16:09:39	Warning: 	Retry after error -4 (No data (connection closed)) at link www.fondationaek.org/css/bigplay.png (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/background.png (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/mejs-loading.gif (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/controls.svg (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/controls.png (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/reset.css (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/wordpress.css (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/images/sound_off.png (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/images/sound_on.png (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/images/icon_twitter_bird.png (from www.fondationaek.org/css/style.css)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/images/logos.jpg (from www.fondationaek.org/css/style.css)
+16:09:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fondationaek.org/fonts.googleapis.com/css?family=Karla%3A600%2C600%2C600%2C600%2Cregular%2Citalic%2C700%2C700italic%7CMontserrat%3A600%2C600%2C600%2C600%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset (from www.fondationaek.org/mot-du-president.html)
+16:09:40	Error: 	"Not Found" (404) at link https://www.fondationaek.org/fonts.googleapis.com/css?family=Playfair+Display%3A400%2C700%2C400italic&subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Ccyrillic (from www.fondationaek.org/mot-du-president.html)
+16:09:40	Error: 	"Not Found" (404) at link https://www.fondationaek.org/fonts.googleapis.com/css?family=Montserrat%3A400%2C700%2C400italic&subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Ccyrillic (from www.fondationaek.org/mot-du-president.html)
+16:09:40	Warning: 	Retry after error -4 (No data (connection closed)) at link www.fondationaek.org/images/publications/1.jpg (from www.fondationaek.org/evenements.html)
+16:09:40	Error: 	"Not Found" (404) at link www.fondationaek.org/css/bigplay.png (from www.fondationaek.org/css/style.css)
+16:09:43	Error: 	"Not Found" (404) at link https://www.fondationaek.org/fonts.googleapis.com/css?family=Karla%3A600%2C600%2C600%2C600%2Cregular%2Citalic%2C700%2C700italic%7CMontserrat%3A600%2C600%2C600%2C600%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset (from www.fondationaek.org/mot-du-president.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 46 seconds : 118 links scanned, 85 files written (50804910 bytes overall) [50840171 bytes received at 25093 bytes/sec], 2.0 requests per connection
+(28 errors, 6 warnings, 0 messages)
